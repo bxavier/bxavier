@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bruno Xavier
 
-Full Stack Developer with 15+ years of experience, specializing in frontend solutions for financial and e-commerce markets. Design background allows me to work directly with product and UX teams to deliver efficient solutions.
+Full Stack Developer with over 15 years of experience, specializing in frontend and solutions for the financial and e-commerce markets. Versatile professional with a design background, capable of working directly with product and UX teams to deliver efficient solutions. Experienced event-driven architecture with messaging. Recognized for quick learning abilities and creative problem-solving for complex challenges. 
 
 ## 💻 Tech Stack
 
